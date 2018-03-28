@@ -13,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## Do not cover the car
 
 ### Dogs are good
-[Cerner](https://www.cerner.com/) and ![Image](C:\Users\Reign\Desktop\cerner-corp-logo.jpg)
+[Cerner](https://www.cerner.com/) and [C:\Users\Reign\Desktop\cerner-corp-logo.jpg]
 
 ```markdown
 Syntax highlighted code block
